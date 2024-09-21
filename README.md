@@ -1,14 +1,14 @@
 # Welcome to My GitHub! 👋
 
-I'm Golam Maula, a passionate full-stack developer who loves building applications with **Python, Django**, and **JavaScript**. Here, you will find my latest projects, open-source contributions, and some fun side projects. Feel free to explore and connect with me!
+I’m Golam Maula, a full-stack developer with a passion for solving complex problems using **Django**, **React**, and **Python**. Explore my projects and feel free to connect!
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **[Portfolio Project]()**
-- 🌱 I’m currently learning **React** and **django**
-- 👯 I’m looking to collaborate on **open-source projects**
+- 🔭 Currently working on **[Portfolio Project]()**
+- 🌱 Learning **React** and **Django**
+- 👯 Looking to collaborate on **open-source projects**
 - 💬 Ask me about **Django, Python, JavaScript**
 - 😄 Pronouns: He/Him
 
@@ -16,37 +16,51 @@ I'm Golam Maula, a passionate full-stack developer who loves building applicatio
 
 ## 🛠️ Technologies & Tools
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)](https://github.com/your-username)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gmlincoln&show_icons=true&theme=radical" alt="GitHub Stats" width="400px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gmlincoln&theme=dark" alt="GitHub Streak" width="400px" />
+</p>
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/gmlincoln/gmlincoln/raw/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
+
+---
 
 ## 🔗 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/golammaula/)
-- [Twitter](https://twitter.com/gmlincoln1)
-- [Facebook](https://facebook.com/1mLincoln)
+<p align="center">
+  <a href="https://www.linkedin.com/in/golammaula/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/gmlincoln1">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 📅 Weekly Dev Breakdown
+## 📝 Latest Blog Posts
 
-<!--START_SECTION:waka-->
-```text
-Python     15 hrs 30 mins  ███████████▓░░░░░░░░░░░░░
-Django     10 hrs 45 mins  ████████▒░░░░░░░░░░░░░░░░
-React      7 hrs 5 mins    ████░░░░░░░░░░░░░░░░░░░░░
-HTML/CSS   4 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░░░░░░
+- [Django Environment Setup and Create Project Documentation ]([https://yourblog.com/django-best-framework](https://bead-argument-be6.notion.site/Class-1-Django-Environment-Setup-and-Create-Project-Documentation-f4256119cbb14663b763323b267e1815?pvs=74))
+- [How to create Django App and Superuser]([https://yourblog.com/github-actions-ci-cd](https://bead-argument-be6.notion.site/Class-2-How-to-create-Django-App-and-Superuser-7a2a691b2d9849e1ba6a53defc16003a))
+- [How to render an HTML, Set Up Static Files and Configure Template]([https://yourblog.com/react-interactive-uis](https://bead-argument-be6.notion.site/Class-3-How-to-render-an-HTML-Set-Up-Static-Files-and-Configure-Template-bf5dd079636143bda493f99c911b66a2))
+
+Thanks for stopping by! 😄
