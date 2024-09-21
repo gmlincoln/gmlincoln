@@ -36,14 +36,6 @@ I’m Golam Maula, a full-stack developer with a passion for solving complex pro
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/gmlincoln/gmlincoln/raw/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</p>
-
----
-
 ## 🔗 Let's Connect
 
 <p align="center">
