@@ -1,6 +1,6 @@
 # Welcome to My GitHub! 👋
 
-I’m Golam Maula, a full-stack developer with a passion for solving complex problems using **Django**, **React**, and **Python**. Explore my projects and feel free to connect!
+I’m Golam Maula, a full-stack developer passionate about solving complex problems using **Django**, **React**, and **Python**. Explore my projects and feel free to connect!
 
 ---
 
