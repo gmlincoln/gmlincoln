@@ -6,7 +6,7 @@ I’m Golam Maula, a full-stack developer passionate about solving complex probl
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **[Portfolio Project]()**
+- 🔭 Currently working on **[Job Portal Project]([https://](https://github.com/gmlincoln/job-portal))**
 - 🌱 Learning **React** and **Django**
 - 👯 Looking to collaborate on **open-source projects**
 - 💬 Ask me about **Django, Python, JavaScript**
