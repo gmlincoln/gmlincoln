@@ -1,45 +1,71 @@
 # 👨‍💻 Golam Maula Lincoln | Full-Stack Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=0d9488&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Golam+Maula+Lincoln;Full-Stack+Developer+(Django+%7C+React);Building+Scalable+Apps;Tech+Enthusiast+%7C+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=0d9488&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Golam+Maula+Lincoln+👋;Full-Stack+Developer+(Django+%7C+React);Building+Scalable+Apps;Tech+Enthusiast+%7C+Learner" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/gmlincoln"><img src="https://img.shields.io/github/followers/gmlincoln?style=social&label=Follow&color=0d9488"></a>
+  <a href="https://github.com/gmlincoln?tab=repositories"><img src="https://img.shields.io/github/stars/gmlincoln?style=social&label=Stars&color=0d9488"></a>
+  <a href="https://linkedin.com/in/gmlincoln"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I’m a **Full-Stack Developer** focused on building clean, scalable, and efficient applications using **Django, React, and Python**.  
-I enjoy solving complex problems, optimizing performance, and continuously learning new technologies.
+I’m a **Full-Stack Developer** passionate about **Django, React, and Python**. I build **clean, scalable, and high-performance applications**.
 
-- 🌱 Currently exploring **Data Science & Big Data**  
-- 💡 Passionate about **System Design & Backend Architecture**  
-- ✍️ Writing technical blogs and improving open-source projects  
+- 🌱 Learning **Data Science, Big Data & Machine Learning**  
+- 💡 Focused on **System Design & Backend Architecture**  
+- ✍️ Writing blogs & contributing to **open-source projects**  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python | JavaScript | HTML/CSS | Java  
-**Frameworks:** Django | React | DRF | Node.js  
-**Databases:** PostgreSQL | MySQL | SQLite  
-**Tools:** Git | Docker | VS Code | Postman | Linux  
+### **Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,java" height="40" />
+</p>
+
+### **Frameworks & Libraries**
+<p>
+  <img src="https://skillicons.dev/icons?i=django,react,drf,nodejs,express" height="40" />
+</p>
+
+### **Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" height="40" />
+</p>
+
+### **Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,vscode,postman,linux" height="40" />
+</p>
 
 ---
 
 ## 💻 Projects
 
-**1. Student Attendance System** – Django-based full-stack app with authentication and real-time tracking  
-**2. E-Commerce Store** – React + Django dynamic store with admin dashboard and payment integration  
-**3. Real-time Chat App** – Socket-based messaging for instant communication  
-**4. Resume Builder Platform** – User accounts, profile updates, PDF resume download  
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| ![Attendance](https://img.icons8.com/color/48/django.png) **Student Attendance System** | Django, Python | Full-stack app with authentication and real-time tracking |
+| ![E-commerce](https://img.icons8.com/color/48/react-native.png) **E-Commerce Store** | React, Django, PostgreSQL | Dynamic store with cart, payments, and admin dashboard |
+| ![Chat](https://img.icons8.com/color/48/socket.png) **Real-time Chat App** | Django, JavaScript, WebSockets | Instant messaging platform for connected users |
+| ![Resume](https://img.icons8.com/color/48/resume.png) **Resume Builder Platform** | Django, React | Users can create accounts, update resumes, and download PDFs |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=gmlincoln&show_icons=true&theme=react&border_radius=10" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmlincoln&layout=compact&theme=react&border_radius=10" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=gmlincoln&show_icons=true&theme=react&border_radius=10" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmlincoln&layout=compact&theme=react&border_radius=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gmlincoln&theme=radical&no-frame=true&margin-w=10&column=7" />
 </p>
 
 ---
@@ -47,9 +73,9 @@ I enjoy solving complex problems, optimizing performance, and continuously learn
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gmlincoln" target="_blank">LinkedIn</a> •
-  <a href="mailto:gmlincoln.dev@gmail.com" target="_blank">Email</a> •
-  <a href="https://github.com/gmlincoln" target="_blank">GitHub</a>
+  <a href="https://linkedin.com/in/gmlincoln" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a>
+  <a href="mailto:gmlincoln.dev@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40"></a>
+  <a href="https://github.com/gmlincoln" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40"></a>
 </p>
 
 ---
