@@ -22,28 +22,22 @@ I’m a **Full-Stack Developer** passionate about **Django, React, and Python**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ **Tech Stack**
 
 ### **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,java" height="40" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,java" />
 </p>
 
 ### **Frameworks & Libraries**
 <p>
-  <img src="https://skillicons.dev/icons?i=django,react,drf,nodejs,express" height="40" />
+  <img src="https://skillicons.dev/icons?i=django,react,redux,nodejs,express" />
 </p>
 
 ### **Databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" height="40" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
 </p>
-
-### **Tools & Platforms**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,docker,vscode,postman,linux" height="40" />
-</p>
-
 ---
 
 ## 💻 Projects
