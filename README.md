@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/gmlincoln"><img src="https://img.shields.io/github/followers/gmlincoln?style=social&label=Follow&color=0d9488"></a>
   <a href="https://github.com/gmlincoln?tab=repositories"><img src="https://img.shields.io/github/stars/gmlincoln?style=social&label=Stars&color=0d9488"></a>
-  <a href="https://linkedin.com/in/gmlincoln"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a align="center"> <img src="https://komarev.com/ghpvc/?username=gmlincoln&style=flat-square&color=0d9488" alt="Profile Views" /></a>
 </p>
 
 ---
