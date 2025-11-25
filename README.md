@@ -1,7 +1,7 @@
 # 👨‍💻 Golam Maula Lincoln | Full-Stack Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=0d9488&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Golam+Maula+Lincoln+👋;Full-Stack+Developer+(Django+%7C+React);Building+Scalable+Apps;Tech+Enthusiast+%7C+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=0d9488&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Golam+Maula+Lincoln;Full-Stack+Developer+(Django+%7C+React);Building+Scalable+Apps;Tech+Enthusiast+%7C+Learner" />
 </p>
 
 <p align="center">
