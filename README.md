@@ -38,16 +38,27 @@ I’m a **Full-Stack Developer** passionate about **Django, React, and Python**.
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
 </p>
+
+### **Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" />
+</p>
+
 ---
 
-## 💻 Projects
+## 📌 **Featured Projects**
 
-| Project | Tech Stack | Description |
-|--------|------------|-------------|
-| ![Attendance](https://img.icons8.com/color/48/django.png) **Student Attendance System** | Django, Python | Full-stack app with authentication and real-time tracking |
-| ![E-commerce](https://img.icons8.com/color/48/react-native.png) **E-Commerce Store** | React, Django, PostgreSQL | Dynamic store with cart, payments, and admin dashboard |
-| ![Chat](https://img.icons8.com/color/48/socket.png) **Real-time Chat App** | Django, JavaScript, WebSockets | Instant messaging platform for connected users |
-| ![Resume](https://img.icons8.com/color/48/resume.png) **Resume Builder Platform** | Django, React | Users can create accounts, update resumes, and download PDFs |
+### 🔹 **📚 Student Attendance System – Django**
+A full-stack attendance tracking system with authentication, role-based access, and real-time records.
+
+### 🔹 **🛒 E-Commerce Store – Django + React**
+Dynamic product management, cart system, payment integration, and admin dashboard.
+
+### 🔹 **💬 Real-time Chat App**
+Socket-based messaging platform allowing users to chat instantly after connecting.
+
+### 🔹 **📄 Resume Builder Platform**
+Users can create accounts, upload images, update resume sections & download PDF versions.
 
 ---
 
