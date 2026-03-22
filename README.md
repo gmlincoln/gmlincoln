@@ -78,8 +78,8 @@ Users can create accounts, upload images, update resume sections & download PDF 
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/gmlincoln" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a>
-  <a href="mailto:gmlincoln.dev@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40"></a>
+  <a href="https://www.linkedin.com/in/golammaula/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a>
+  <a href="mailto:maula03@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40"></a>
   <a href="https://github.com/gmlincoln" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40"></a>
 </p>
 
